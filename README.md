@@ -1,2 +1,2 @@
 # TryOn
-Download the rep and upload it to google colab
+Download the repo and upload it to google colab
