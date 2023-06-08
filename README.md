@@ -1,3 +1,3 @@
 # TryOn
 Download the repo and upload it to google colab
-![Uploading image.png…]()
+![Alt text]([image_url](https://ibb.co/4S4fpDN))
